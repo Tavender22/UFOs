@@ -10,7 +10,7 @@ To search the user enters a search criterion and presses enter. Once done, the t
 ![UFO Sightings Single Search](https://github.com/Tavender22/UFOs/blob/master/Challenge/UFO_sighting_single.png)
 
 Or multple search items:
-![UFO Sightings Single Search](https://github.com/Tavender22/UFOs/blob/master/Challenge/UFO_sightings_multi.png)
+![UFO Sightings Single Search](https://github.com/Tavender22/UFOs/blob/master/Challenge/UFO_sightings_multi.jpg)
 
 ## Summary
 
