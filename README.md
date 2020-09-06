@@ -2,16 +2,15 @@
 ## Purpose
 The purpose of the website is to allow a user to filter through UFO sighting data by various filters. It allows a user to search the data by 5 criteria (using one or all five search options).
 
-##
+## Results
 The webpage initially loads the entire data table, with 5 search boxes on the left hand side, as shown in the image below.
-[insert image]
+![UFO Sightings Homepage](https://github.com/Tavender22/UFOs/blob/master/Challenge/UFO_sightings_home.png)
 
 To search the user enters a search criterion and presses enter. Once done, the table adjusts for the search results. A user can enter one search item as seen below:
-[insert image]
+![UFO Sightings Single Search](https://github.com/Tavender22/UFOs/blob/master/Challenge/UFO_sighting_single.png)
 
 Or multple search items:
-
-[insert image]
+![UFO Sightings Single Search](https://github.com/Tavender22/UFOs/blob/master/Challenge/UFO_sightings_multi.png)
 
 ## Summary
 
